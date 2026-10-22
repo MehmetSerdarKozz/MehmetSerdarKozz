@@ -1,33 +1,59 @@
-Hi, I'm Mehmet Serdar 👋
-AI Engineer in the making · Computer Engineering @ Kütahya Health Sciences University (graduating 2026)
-I build practical AI/ML systems: from model training and evaluation to LLM-powered apps that people can actually use.
-🔭 What I work on
-Deep learning and computer vision (transfer learning, feature extraction, model comparison)
-LLM applications: prompt engineering, API integration, automation pipelines
-Full-stack tooling around AI (FastAPI, React) to ship models as real products
-🚀 Featured projects
-Project	What it does	Stack
-FisAnaliz	Smart receipt analysis: OCR-based extraction, budget tracking and cross-market price comparison (graduation thesis)	FastAPI, React, Vite, Firebase, Gemini API
-Rice Leaf Disease Classification	10-class classification on the Paddy Doctor dataset; compares 8 CNNs with transfer learning, DL features + classical ML (5-fold CV) and handcrafted features	TensorFlow/Keras, scikit-learn, Colab
-Prompt Optimizer	Desktop app that rewrites prompts, asking clarifying questions first, with multiple modes and targets (chat AI, image generation)	Python, CustomTkinter, DeepSeek API
-YouTube Shorts Pipeline	Automated flow from script generation to YouTube upload	Claude API, Manim, edge-tts, MoviePy, YouTube Data API v3
-🛠️ Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-🌱 Currently
-Deepening my AI/ML skills and building a portfolio of end-to-end projects
-Improving my code quality through structured code reviews of my past projects
-📫 Reach me
-LinkedIn: linkedin.com/in/LINKEDIN_ADI
-Email: EMAIL_ADRESIN
-📊 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADI&layout=compact&hide_border=true)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mehmet%20Serdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making&descSize=20&descAlignY=60&animation=fadeIn" />
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+KSB%C3%9C;Deep+Learning+%26+Computer+Vision;LLM+Apps+%26+Automation+Pipelines;Building+end-to-end+AI+projects" alt="Typing SVG" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADI&label=Profile+views&color=2c5364&style=flat-square" />
+<img src="https://img.shields.io/badge/Graduating-2026-5eead4?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-203a43?style=flat-square" />
+</div>
+---
+👨‍💻 About
+I'm a final-year Computer Engineering student who builds practical AI/ML systems: from training and comparing models to shipping LLM-powered apps that people can actually use.
+🔬 Deep learning, transfer learning, computer vision
+🤖 LLM applications, prompt engineering, API integration
+⚙️ Full-stack tooling (FastAPI + React) to turn models into products
+🌱 Currently: building a portfolio of end-to-end AI projects
+---
+🛠️ Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,fastapi,react,vite,tailwind,firebase,git,github,vscode&perline=12" />
+</div>
+---
+🚀 Featured Projects
+<div align="center">
+<a href="https://github.com/KULLANICI_ADI/FisAnaliz">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADI&repo=FisAnaliz&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KULLANICI_ADI/PromptOptimizasyon">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADI&repo=PromptOptimizasyon&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KULLANICI_ADI/CELTIK_REPO_ADI">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADI&repo=CELTIK_REPO_ADI&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KULLANICI_ADI/SHORTS_REPO_ADI">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADI&repo=SHORTS_REPO_ADI&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+<details>
+<summary><b>📖 Project details</b></summary>
+<br/>
+🧾 FisAnaliz — Smart receipt analysis system (graduation thesis). OCR-based extraction, budget tracking, cross-market price comparison. `FastAPI` `React` `Firebase` `Gemini API`
+🌾 Rice Leaf Disease Classification — 10-class Paddy Doctor dataset. 8 CNN models with transfer learning, deep features + classical ML (5-fold CV), and handcrafted features. `TensorFlow` `Keras` `scikit-learn`
+✨ Prompt Optimizer — Desktop app that rewrites prompts, asking clarifying questions first. Multiple modes and targets. `Python` `CustomTkinter` `DeepSeek API`
+🎬 YouTube Shorts Pipeline — Automated flow from script generation to YouTube upload. `Claude API` `Manim` `edge-tts` `MoviePy`
+</details>
+---
+📊 GitHub Stats
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADI&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+---
+📫 Let's connect
+<div align="center">
+<a href="https://linkedin.com/in/LINKEDIN_ADI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:EMAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
