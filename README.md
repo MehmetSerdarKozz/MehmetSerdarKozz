@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mehmet%20Serdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mehmet%20Serdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" />
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+KSB%C3%9C;Deep+Learning+%26+Computer+Vision;LLM+Apps+%26+Automation+Pipelines;Building+end-to-end+AI+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Deep+Learning+%26+Computer+Vision;LLM+Apps+%26+Automation+Pipelines;Building+end-to-end+AI+projects" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=MehmetSerdarKozz&label=Profile+views&color=2c5364&style=flat-square" />
-<img src="https://img.shields.io/badge/Graduating-2026-5eead4?style=flat-square" />
+<img src="https://img.shields.io/badge/Graduated-2026-5eead4?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-203a43?style=flat-square" />
 </div>
 ---
 👨‍💻 About
-I'm a final-year Computer Engineering student who builds practical AI/ML systems: from training and comparing models to shipping LLM-powered apps that people can actually use.
+I'm a Computer Engineering graduate (2026) who builds practical AI/ML systems: from training and comparing models to shipping LLM-powered apps that people can actually use.
 🔬 Deep learning, transfer learning, computer vision
 🤖 LLM applications, prompt engineering, API integration
 ⚙️ Full-stack tooling (FastAPI + React) to turn models into products
