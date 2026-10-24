@@ -38,27 +38,6 @@
 
 <hr/>
 
-<h3>🚀 Featured Projects</h3>
-
-<div align="center">
-
-<a href="https://github.com/MehmetSerdarKozz/Alisveris-Asistani">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetSerdarKozz&repo=Alisveris-Asistani&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<details>
-<summary><b>📖 Project details</b></summary>
-<br/>
-
-<p><b>🧾 FisAnaliz (Alisveris-Asistani)</b>: Smart receipt analysis system (graduation thesis). OCR-based extraction, budget tracking, cross-market price comparison.<br/>
-<code>FastAPI</code> <code>React</code> <code>Firebase</code> <code>Gemini API</code></p>
-
-</details>
-
-<hr/>
-
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
