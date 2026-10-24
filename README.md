@@ -20,10 +20,11 @@
 <p>I'm a Computer Engineering graduate (2026) who builds <b>practical AI/ML systems</b>: from training and comparing models to shipping LLM-powered apps that people can actually use.</p>
 
 <ul>
-  <li>🔬 Deep learning, transfer learning, computer vision</li>
-  <li>🤖 LLM applications, prompt engineering, API integration</li>
-  <li>⚙️ Full-stack tooling (FastAPI + React) to turn models into products</li>
-  <li>🌱 Currently: building a portfolio of end-to-end AI projects</li>
+  <li>🔬 <b>Recent work:</b> compared three approaches for rice leaf disease classification (transfer learning, deep features + classical ML, handcrafted features). Deep features + SVM reached <b>89.7% accuracy</b> (5-fold CV).</li>
+  <li>💼 <b>Experience:</b> internships at Kahramanmaraş Sütçü İmam University (Computer Engineering Dept.) and Refons Teknoloji.</li>
+  <li>🤖 <b>Building:</b> LLM applications, prompt engineering, API integration, automation pipelines.</li>
+  <li>⚙️ <b>Full-stack:</b> FastAPI + React to turn models into products.</li>
+  <li>🤝 <b>Open to:</b> full-time and remote roles in AI/ML.</li>
 </ul>
 
 <hr/>
