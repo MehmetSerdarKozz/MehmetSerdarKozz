@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Graduated-2026-5eead4?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-203a43?style=flat-square" />
+<img src="https://img.shields.io/badge/Graduated-2026-0d9488?style=for-the-badge&labelColor=0c4a6e" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-0d9488?style=for-the-badge&labelColor=0c4a6e" />
 
 </div>
 
@@ -54,7 +54,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mehmet-serdar-koz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:serdarkoz46@gmail.com"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:serdarkoz46@gmail.com"><img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
