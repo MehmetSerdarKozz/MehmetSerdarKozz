@@ -39,6 +39,21 @@
 
 <hr/>
 
+<h3>🚀 Featured Project</h3>
+
+<div align="center">
+
+<a href="https://github.com/MehmetSerdarKozz/rice-leaf-disease-classification">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetSerdarKozz&repo=rice-leaf-disease-classification&theme=tokyonight&hide_border=true" />
+</a>
+
+<p>Three approaches compared on 10 rice leaf diseases: transfer learning, deep features + classical ML, and handcrafted features.<br/>
+<code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code> <code>XGBoost</code> <code>OpenCV</code></p>
+
+</div>
+
+<hr/>
+
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
