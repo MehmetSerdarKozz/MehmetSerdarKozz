@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mehmet%20Serdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0e7490,100:0d9488&height=220&section=header&text=Mehmet%20Serdar&fontSize=60&fontColor=ffffff&fontAlignY=38&stroke=ffffff&strokeWidth=1&desc=AI%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" />
 
 <div align="center">
 
@@ -58,4 +58,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0e7490,100:0c4a6e&height=100&section=footer" />
