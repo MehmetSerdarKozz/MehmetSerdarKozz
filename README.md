@@ -44,7 +44,7 @@
 <div align="center">
 
 <a href="https://github.com/MehmetSerdarKozz/rice-leaf-disease-classification">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetSerdarKozz&repo=rice-leaf-disease-classification&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetSerdarKozz&repo=rice-leaf-disease-classification&theme=tokyonight&hide_border=true&v=2" />
 </a>
 
 <p>Three approaches compared on 10 rice leaf diseases: transfer learning, deep features + classical ML, and handcrafted features.<br/>
