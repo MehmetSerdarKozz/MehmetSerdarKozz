@@ -33,24 +33,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,fastapi,react,vite,tailwind,firebase,git,github,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,cs,dotnet,ts,fastapi,react,vite,tailwind,firebase,git,github,vscode&perline=15" />
 
 </div>
 
 <hr/>
 
-<h3>🚀 Featured Project</h3>
+<h3>🚀 Featured Projects</h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/MehmetSerdarKozz/rice-leaf-disease-classification">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehmetSerdarKozz&repo=rice-leaf-disease-classification&theme=tokyonight&hide_border=true&v=2" />
-</a>
+<h4>🌾 <a href="https://github.com/MehmetSerdarKozz/rice-leaf-disease-classification">Rice Leaf Disease Classification</a></h4>
 
-<p>Three approaches compared on 10 rice leaf diseases: transfer learning, deep features + classical ML, and handcrafted features.<br/>
-<code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code> <code>XGBoost</code> <code>OpenCV</code></p>
+<p>Three approaches compared on 10 rice leaf diseases: transfer learning, deep features + classical ML, and handcrafted features. Deep features + SVM reached <b>89.7% accuracy</b> (5-fold CV).</p>
 
-</div>
+<code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code> <code>XGBoost</code> <code>OpenCV</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>📊 <a href="https://github.com/MehmetSerdarKozz/enterprise-ai-analytics">Enterprise AI Analytics</a></h4>
+
+<p>Multi-tenant SaaS analytics platform built solo: collects data from CSV, Excel, JSON and REST APIs, and lets users query it in natural language and ask questions about their documents with <b>RAG</b>.</p>
+
+<code>C#</code> <code>.NET</code> <code>TypeScript</code> <code>Python</code> <code>RAG</code> <code>LLM</code>
+
+</td>
+</tr>
+</table>
 
 <hr/>
 
@@ -58,8 +70,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MehmetSerdarKozz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetSerdarKozz&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Kartlar .github/workflows/profile-cards.yml ile her gün bu depoda üretilir; dış servise bağlı değildir. -->
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=MehmetSerdarKozz&theme=tokyonight&hide_border=true" />
 
 </div>
 
